@@ -143,5 +143,5 @@ int main() {
 
 # OUTPUT
 
-![alt text](![image](https://github.com/eldhien/projek-pointer/assets/160606808/c26f2aef-3218-42ef-b502-69f7240eca64)
-?raw=true)
+![image](https://github.com/eldhien/projek-pointer/assets/160606808/da7cb743-e346-44fc-bb12-8d1f8d111e81)
+
