@@ -58,7 +58,7 @@ int main() {
     return 0;
 }
 ```
-#PENJELAASAN
+# PENJELAASAN
 ```sh
 #include <stdio.h>
 #include <stdlib.h>
@@ -141,4 +141,5 @@ int main() {
 ```
 - Akhirnya, panjang teks yang telah diperbarui (jika perlu) dicetak, dan program selesai dengan mengembalikan 0.
 
-#OUTPUT
+# OUTPUT
+![alt text](?raw=true)
