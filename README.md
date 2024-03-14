@@ -142,4 +142,6 @@ int main() {
 - Akhirnya, panjang teks yang telah diperbarui (jika perlu) dicetak, dan program selesai dengan mengembalikan 0.
 
 # OUTPUT
-![alt text](?raw=true)
+
+![alt text](![image](https://github.com/eldhien/projek-pointer/assets/160606808/c26f2aef-3218-42ef-b502-69f7240eca64)
+?raw=true)
